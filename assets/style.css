@@ -9,7 +9,6 @@
     justify-content: center;
     width: 100%;
     background-color: rgb(233, 248, 229);
-    height: 100vh;
 }
 /* leaf code */
 h3>i{
@@ -18,7 +17,8 @@ h3>i{
     padding: 5px;
 }
 h3{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: cursive;
+    font-size: 22px;
 }
 
 /* Image container */
@@ -34,7 +34,7 @@ h3{
 /* Form container */
 .form-container{
   width: 50%;
-  padding: 25px;
+  padding: 28px;
   background-color: #fff;
   line-height: 2;
   border-radius: 10px 0px 0px 10px;
@@ -74,7 +74,7 @@ h3{
 }
 /* Icons */
 .icon{
-    font-size: 18px;
+    font-size: 20px;
     margin: 10px auto;
 }
 .icon .fab{
@@ -111,6 +111,9 @@ h3{
 }
 .Option{
     margin-top: 10px;
+}
+.or{
+    opacity: 0.6;
 }
 
 
