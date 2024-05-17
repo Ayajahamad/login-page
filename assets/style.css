@@ -9,6 +9,7 @@
     justify-content: center;
     width: 100%;
     background-color: rgb(233, 248, 229);
+    height: 100vh;
 }
 /* leaf code */
 h3>i{
@@ -137,6 +138,12 @@ h3{
         text-align: center;
         width: 100%;
         font-size: 26px;
+    }
+    .form-group>input{
+        border-radius: 20px;
+    }
+    .btn{
+        border-radius: 20px;
     }
 }
   
